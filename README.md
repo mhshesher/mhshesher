@@ -1,7 +1,11 @@
 # Hi There! I am Mehedi
 
 ## I am a Programmer!
-I love to Learn , I love to Code, I love to Explore and I love to SLEEP. I have experience in **Programming**, **Machine Learning**, **Research**, **Problem Solving**, **Teaching** etc. I love to think and generate ideas. And it gives me smile when I implement those. I am currently stick with machine learning and I would love to collaborate in machine learning project.
+<p align="justify">I love to Learn , I love to Code, I love to Explore and I love to SLEEP. I have experience in <b>Programming</b>, <b>Machine Learning</b>, <b>Research</b>, <b>Problem Solving</b>, <b>Teaching</b> etc. I love to think and generate ideas. And it gives me smile when I implement those. I am currently stick with machine learning and I would love to collaborate in machine learning project.</p>
+
+<img align="center" alt="programmer" src="images/programmer.gif"/>
+
+<br>
 
 ---
 ## &#x1f4c8; GitHub Stats
@@ -13,14 +17,13 @@ I love to Learn , I love to Code, I love to Explore and I love to SLEEP. I have 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhshesher&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-<br />
+<br>
 
 ---
 
 ## Find Me on
-[<img align="left" alt="mehedi-shesher | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mehedi-shesher | ResearchGate" width="22px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/researchgate_icon_130843.png
-" />][researchgate]
+[<img align="left" alt="mehedi-shesher | LinkedIn" width="32px" src="images/linkedin.png" />][linkedin]
+[<img align="left" alt="mehedi-shesher | ResearchGate" width="30px" src="images/researchgate.png" />][researchgate]
 <br>
 
 ---
